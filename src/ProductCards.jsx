@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles({
   root: {
-    width: 345,
+    width: 300,
     margin:20
   },
   media: {
@@ -32,7 +32,7 @@ export default function ProductCard({product}) {
         <CardMedia
           className={classes.media}
           image={product.imageURL}
-          title="Contemplative Reptile"
+          title="Product-image"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">

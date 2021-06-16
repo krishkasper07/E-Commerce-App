@@ -8,7 +8,7 @@ const products = [
       imageURL:
         "https://images-na.ssl-images-amazon.com/images/I/31jQ91XUDhS.jpg",
       description:
-        "A nice Another smartPhone from Apple.inc",
+        "Dive into a world of crystal-clear visuals with the Super Retina XDR Display of this Apple iPhone 12. This beast of a smartphone packs the A14 Bionic chip to make for blazing-fast performance speeds.",
     },
     {
       id: "wewewert656ghghgh",
